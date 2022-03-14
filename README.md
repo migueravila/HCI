@@ -7,12 +7,14 @@
 - [👥 Team Members](#-team-members)
 - [🔗 Important Links](#-important-links)
 
+Gender HCI Video: [Link](https://www.youtube.com/watch?v=rfJKmPEEbW8)
+
 ## ✨ Project Description
 
 ## 👥 Team Members
 
 | [Miguel Ávila](https://github.com/migueravila) | [Audny Correa](https://github.com/Audny738) | [Edgar Bezares](https://github.com/edgarbezares) | [Israel Cruz](https://github.com/VanillaICe-jpg) | [Roberto Llanes](https://github.com/Apoquinto) |
-| ---------------------------------------------- | ----------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------- |
-| <img src="assets/int1.png" >     | <img src="assets/int2.png">        | <img src="assets/int3.png">       | <img src="assets/int4.png">               | <img src="assets/int5.png">          |
+| ---------------------------------------------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ | ---------------------------------------------- |
+| <img src="assets/int1.png" >                   | <img src="assets/int2.png">                 | <img src="assets/int3.png">                      | <img src="assets/int4.png">                      | <img src="assets/int5.png">                    |
 
 ## 🔗 Important Links
