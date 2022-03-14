@@ -7,8 +7,6 @@
 - [👥 Team Members](#-team-members)
 - [🔗 Important Links](#-important-links)
 
-Gender HCI Video: [Link](https://www.youtube.com/watch?v=rfJKmPEEbW8)
-
 ## ✨ Project Description
 
 ## 👥 Team Members
@@ -18,3 +16,5 @@ Gender HCI Video: [Link](https://www.youtube.com/watch?v=rfJKmPEEbW8)
 | <img src="assets/int1.png" >                   | <img src="assets/int2.png">                 | <img src="assets/int3.png">                      | <img src="assets/int4.png">                      | <img src="assets/int5.png">                    |
 
 ## 🔗 Important Links
+
+- Gender HCI Video: [Link](https://www.youtube.com/watch?v=rfJKmPEEbW8)
