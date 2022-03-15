@@ -3,16 +3,24 @@
 ## 👇 Index
 
 - [👇 Index](#-index)
+- [📜 Documents](#-documents)
 - [✨ Project Description](#-project-description)
 - [👥 Team Members](#-team-members)
 - [🔗 Important Links](#-important-links)
+
+## 📜 Documents
+
+- Current delivery: [link](docs/delivery.md)
+- Changelog: [link](docs/changelog.md)
+- Contribution Metric: [link](docs/contribution.md)
+- Team Management: [link](docs/management.md)
+- Project Plan: [link](docs/project.md)
 
 ## ✨ Project Description
 
 Classes are not the same anymore,  hybrid classes have generated new problems. One of them is communication. We need to upgrade the way that teachers communicate with face to face and virtual classmates. 
 
 We are interested in this area because it directly affects us and it can open a new market for schools, allowing students with any issue to take classes no matter what problem they're having with their mobility, and also can open an new opportunities for people for other cities and countries to study in the school that they want and save budget.
-
 
 ## 👥 Team Members
 
