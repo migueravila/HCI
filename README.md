@@ -9,6 +9,11 @@
 
 ## ✨ Project Description
 
+Classes are not the same anymore,  hybrid classes have generated new problems. One of them is communication. We need to upgrade the way that teachers communicate with face to face and virtual classmates. 
+
+We are interested in this area because it directly affects us and it can open a new market for schools, allowing students with any issue to take classes no matter what problem they're having with their mobility, and also can open an new opportunities for people for other cities and countries to study in the school that they want and save budget.
+
+
 ## 👥 Team Members
 
 | [Miguel Ávila](https://github.com/migueravila) | [Audny Correa](https://github.com/Audny738) | [Edgar Bezares](https://github.com/edgarbezares) | [Israel Cruz](https://github.com/VanillaICe-jpg) | [Mario Chan](https://github.com/MarioJChanZurita) |
