@@ -31,5 +31,5 @@ We are interested in this area because it directly affects us and it can open a 
 ## 🔗 Important Links
 
 - Gender HCI Video: [Link](https://www.youtube.com/watch?v=rfJKmPEEbW8)
-- Figma Prototypes and Design: [link](https://www.figma.com/file/gaBNXWxGpDeeKRgYx9s2wp/Hybideo?node-id=0%3A1)
+- Figma Prototypes and Design: [link](https://www.figma.com/file/zp0nL8qmWB0t9356uDiUzG/Untitled?node-id=0%3A1)
 - First Delivery: [link](https://youtu.be/Xt-d1-nP-_c)
