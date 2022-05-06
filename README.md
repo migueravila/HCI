@@ -4,6 +4,7 @@
 
 - [👇 Index](#-index)
 - [📜 Documents](#-documents)
+- [🗂 Project Documents](#-project-documents)
 - [✨ Project Description](#-project-description)
 - [👥 Team Members](#-team-members)
 - [🔗 Important Links](#-important-links)
@@ -15,6 +16,13 @@
 - Contribution Metric: [link](docs/contribution.md)
 - Team Management: [link](docs/management.md)
 - Project Plan: [link](docs/project.md)
+
+
+## 🗂 Project Documents
+
+- Requirements: [link](docs/requirements.md)
+- Personas: [link](docs/personas.md)
+- Wireframes: [link](https://www.figma.com/file/zp0nL8qmWB0t9356uDiUzG/Untitled?node-id=0%3A1)
 
 ## ✨ Project Description
 
