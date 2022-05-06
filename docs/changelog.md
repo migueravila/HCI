@@ -1,4 +1,12 @@
 # Project Log
+## 4 Apr 2022
+> Method
+
+We now established what method we will use of our project.
+## 28 Mar 2022
+> Planning
+
+Based on our roles we discussed what to do in order to star our second delivery.
 
 ## 11 Mar 2022
 > Research
