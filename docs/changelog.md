@@ -1,4 +1,47 @@
 # Project Log
+## 4 May 2022
+> Prototyping and requirements finished.
+
+We finished our prototypes and requirements.
+
+##29 Apr 2022
+> Prototyping and requirements.
+
+We worked on our prototypes and requirements.
+
+## 23 Apr 2022
+> Design
+
+We choose our design for wireframe.
+
+## 17 Apr 2022
+> Requirements method
+
+We choose the method for the requirements.
+
+## 11 Apr 2022
+> Planning
+
+We planned our wireframe.
+
+## 10 Apr 2022
+> Personas
+
+We updated our personas.
+
+## 9 Apr 2022
+> Research
+
+We researched interfaces for online calls.
+
+## 4 Apr 2022
+> Method
+
+We now established what method we will use of our project.
+## 28 Mar 2022
+> Planning
+
+Based on our roles we discussed what to do in order to star our second delivery.
 
 ## 11 Mar 2022
 > Research

@@ -14,7 +14,6 @@ We'll be using a 5 sizes task metric to measure each activity´s complexity usin
 
 ### First Delivery
 
-
 | Activity                       | Responsible                 | Tier |
 | ------------------------------ | --------------------------- | ---- |
 | Problematic Research           | Audny Correa                | 2    |
@@ -34,3 +33,26 @@ We'll be using a 5 sizes task metric to measure each activity´s complexity usin
 | Israel Cruz   | 5      | 22%        |
 | Edgar Bezares | 4      | 17%        |
 | Mario Chan    | 3      | 13%        |
+
+### Second Delivery
+
+| Activity                          | Responsible                  | Tier |
+| --------------------------------- | ---------------------------- | ---- |
+| Users functional Requirements     | Edgar Bezares                | 2    |
+| Personas Defintinion & Docs       | Audny Correa                 | 2    |
+| Users non functional Requirements | Audny Correa                 | 2    |
+| Requirements document redaction   | Audny Correa & Edgar Bezares | 3    |
+| Second Delivery Outline           | Mario Chan                   | 2    |
+| Repository Docuemntation          | Miguel Avila                 | 3    |
+| Second Delivery Keynote & Video   | Miguel Avila                 | 3    |
+| Wireframes                        | Israel Cruz & Mario Chan     | 4    |
+| Prototypes                        | Israel Cruz                  | 2    |
+| Changelog updates                 | Edgar Bezares                | 1    |
+
+| Member        | Points | Percentage |
+| ------------- | ------ | ---------- |
+| Miguel Avila  | 6      | 19%        |
+| Audny Correa  | 7      | 24%        |
+| Israel Cruz   | 6      | 19%        |
+| Edgar Bezares | 6      | 19%        |
+| Mario Chan    | 6      | 19%        |
