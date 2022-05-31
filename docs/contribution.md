@@ -56,3 +56,22 @@ We'll be using a 5 sizes task metric to measure each activity´s complexity usin
 | Israel Cruz   | 6      | 19%        |
 | Edgar Bezares | 6      | 19%        |
 | Mario Chan    | 6      | 19%        |
+
+### Third Delivery
+
+| Activity                          | Responsible                  | Tier |
+| --------------------------------- | ---------------------------- | ---- |
+| Final changelog delivery   | Audny Correa & Edgar Bezares | 2    |
+| Third Delivery Outline           | Mario Chan & Edgar Bezares                   | 2    |
+| Repository Docuemntation          | Miguel Avila & Mario                 | 3    |
+| Second Delivery Keynote & Video   | Miguel Avila & Edgar Bezares                | 3    |
+| Results Documentation                        | Israel Cruz & Audny Correa    | 4    |
+| Prototypes                        | Israel Cruz                  | 2    |
+
+| Member        | Points | Percentage |
+| ------------- | ------ | ---------- |
+| Miguel Avila  | 6      | 20%        |
+| Audny Correa  | 6      | 20%        |
+| Israel Cruz   | 6      | 20%        |
+| Edgar Bezares | 7      | 23.3%        |
+| Mario Chan    | 5      | 16.6%        |
